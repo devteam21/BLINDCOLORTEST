@@ -15,12 +15,12 @@ This application was made to see whether your eyes are indicated as blind or not
 Just dowload this project and open <b>COLOR BLIND TEST.fla</b> using Macromedia Flash 8, please don't forget to give this project ⭐⭐⭐⭐⭐
 
 ## QUICK DEMO?
-Run the <b>COLOR BLIND TEST.exe</b> in your pc (#tested on Windows 10 20H2)
+Run the <b>LOAD.exe</b> in your pc (#tested on Windows 10 20H2) or<br>
 https://youtu.be/DoCTT0voQVo
 
-Butuh bantuan terkait IT?
-Whatsapp : 0821-4363-6001
-Email : atdevaldiakbar@gmail.com
+Butuh bantuan terkait IT?<br>
+Whatsapp : 0821-4363-6001<br>
+Email : atdevaldiakbar@gmail.com<br>
 
-YouTube :
+## YouTube :
 https://www.youtube.com/channel/UCM57CgZGgBIhpWqW6815-nQ
