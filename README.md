@@ -22,5 +22,5 @@ Butuh bantuan terkait IT?
 Whatsapp : 0821-4363-6001
 Email : atdevaldiakbar@gmail.com
 
-YouTUbe :
+YouTube :
 https://www.youtube.com/channel/UCM57CgZGgBIhpWqW6815-nQ
